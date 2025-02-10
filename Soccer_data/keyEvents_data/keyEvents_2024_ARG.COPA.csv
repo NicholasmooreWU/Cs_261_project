@@ -1,0 +1,136 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+12336,720317,1,44046235,94,1,240,4',0,0,Norberto Briasco (Gimnasia La Plata) Yellow Card at 4',Norberto Briasco Yellow Card,9,0.0,0.0,0.0,0.0,0.0,0.0,1,240421,2024-10-25 05:18:32
+12336,720317,2,44046271,70,1,540,9',1,0,Aaron Anselmino (Boca Juniors) Goal at 9',Aaron Anselmino Goal,5,0.0,0.0,0.0,0.0,0.0,0.0,1,363218,2024-10-25 05:18:32
+12336,720317,3,44046334,94,1,1440,24',0,0,Ignacio Miramon (Boca Juniors) Yellow Card at 24',Ignacio Miramon Yellow Card,5,0.0,0.0,0.0,0.0,0.0,0.0,1,310476,2024-10-25 05:18:32
+12336,720317,5,44046609,76,2,2700,45',0,0,Marcelo Saracchi (Boca Juniors) Substitution at 45',Marcelo Saracchi Substitution,5,0.0,0.0,0.0,0.0,0.0,0.0,1,219270,2024-10-25 05:18:32
+12336,720317,4,44046597,76,2,2700,45',0,0,Kevin Zenón (Boca Juniors) Substitution at 45',Kevin Zenón Substitution,5,0.0,0.0,0.0,0.0,0.0,0.0,1,290593,2024-10-25 05:18:32
+12336,720317,4,44046597,76,2,2700,45',0,0,Kevin Zenón (Boca Juniors) Substitution at 45',Kevin Zenón Substitution,5,0.0,0.0,0.0,0.0,0.0,0.0,2,309131,2024-10-25 05:18:32
+12336,720317,5,44046609,76,2,2700,45',0,0,Marcelo Saracchi (Boca Juniors) Substitution at 45',Marcelo Saracchi Substitution,5,0.0,0.0,0.0,0.0,0.0,0.0,2,290542,2024-10-25 05:18:32
+12336,720317,6,44046760,94,2,2940,49',0,0,Leonardo Morales (Gimnasia La Plata) Yellow Card at 49',Leonardo Morales Yellow Card,9,0.0,0.0,0.0,0.0,0.0,0.0,1,234348,2024-10-25 05:18:32
+12336,720317,6,44046760,94,2,2940,49',0,0,Leonardo Morales (Gimnasia La Plata) Yellow Card at 49',Leonardo Morales Yellow Card,9,0.0,0.0,0.0,0.0,0.0,0.0,1,200200,2024-10-25 05:18:32
+12336,720317,7,44046810,94,2,3480,58',0,0,Augusto Max (Gimnasia La Plata) Yellow Card at 58',Augusto Max Yellow Card,9,0.0,0.0,0.0,0.0,0.0,0.0,1,136511,2024-10-25 05:18:32
+12336,720317,10,44046841,76,2,3540,59',0,0,David Salazar (Gimnasia La Plata) Substitution at 59',David Salazar Substitution,9,0.0,0.0,0.0,0.0,0.0,0.0,1,370615,2024-10-25 05:18:32
+12336,720317,10,44046841,76,2,3540,59',0,0,David Salazar (Gimnasia La Plata) Substitution at 59',David Salazar Substitution,9,0.0,0.0,0.0,0.0,0.0,0.0,1,163064,2024-10-25 05:18:32
+12336,720317,8,44046832,76,2,3540,59',0,0,Pablo de Blasis (Gimnasia La Plata) Substitution at 59',Pablo de Blasis Substitution,9,0.0,0.0,0.0,0.0,0.0,0.0,1,119493,2024-10-25 05:18:32
+12336,720317,9,44046833,76,2,3540,59',0,0,Guillermo Fernández (Boca Juniors) Substitution at 59',Guillermo Fernández Substitution,5,0.0,0.0,0.0,0.0,0.0,0.0,1,395014,2024-10-25 05:18:32
+12336,720317,9,44046833,76,2,3540,59',0,0,Guillermo Fernández (Boca Juniors) Substitution at 59',Guillermo Fernández Substitution,5,0.0,0.0,0.0,0.0,0.0,0.0,1,331431,2024-10-25 05:18:32
+12336,720317,9,44046833,76,2,3540,59',0,0,Guillermo Fernández (Boca Juniors) Substitution at 59',Guillermo Fernández Substitution,5,0.0,0.0,0.0,0.0,0.0,0.0,1,172427,2024-10-25 05:18:32
+12336,720317,9,44046833,76,2,3540,59',0,0,Guillermo Fernández (Boca Juniors) Substitution at 59',Guillermo Fernández Substitution,5,0.0,0.0,0.0,0.0,0.0,0.0,1,165183,2024-10-25 05:18:32
+12336,720317,9,44046833,76,2,3540,59',0,0,Guillermo Fernández (Boca Juniors) Substitution at 59',Guillermo Fernández Substitution,5,0.0,0.0,0.0,0.0,0.0,0.0,2,95469,2024-10-25 05:18:32
+12336,720317,10,44046841,76,2,3540,59',0,0,David Salazar (Gimnasia La Plata) Substitution at 59',David Salazar Substitution,9,0.0,0.0,0.0,0.0,0.0,0.0,2,359827,2024-10-25 05:18:32
+12336,720317,8,44046832,76,2,3540,59',0,0,Pablo de Blasis (Gimnasia La Plata) Substitution at 59',Pablo de Blasis Substitution,9,0.0,0.0,0.0,0.0,0.0,0.0,2,136511,2024-10-25 05:18:32
+12336,720317,12,44046859,76,2,3780,63',0,0,Valentín Rodríguez (Gimnasia La Plata) Substitution at 63',Valentín Rodríguez Substitution,9,0.0,0.0,0.0,0.0,0.0,0.0,1,307469,2024-10-25 05:18:32
+12336,720317,11,44046858,76,2,3780,63',0,0,Franco Troyansky (Gimnasia La Plata) Substitution at 63',Franco Troyansky Substitution,9,0.0,0.0,0.0,0.0,0.0,0.0,1,233958,2024-10-25 05:18:32
+12336,720317,11,44046858,76,2,3780,63',0,0,Franco Troyansky (Gimnasia La Plata) Substitution at 63',Franco Troyansky Substitution,9,0.0,0.0,0.0,0.0,0.0,0.0,2,240421,2024-10-25 05:18:32
+12336,720317,12,44046859,76,2,3780,63',0,0,Valentín Rodríguez (Gimnasia La Plata) Substitution at 63',Valentín Rodríguez Substitution,9,0.0,0.0,0.0,0.0,0.0,0.0,2,298577,2024-10-25 05:18:32
+12336,720317,13,44046865,97,2,3960,66',1,0,Marcos Rojo (Boca Juniors) Own Goal at 66',Marcos Rojo Own Goal,9,0.0,0.0,0.0,0.0,0.0,0.0,1,129426,2024-10-25 05:18:32
+12336,720317,14,44046878,76,2,4140,69',0,0,Milton Gimenez (Boca Juniors) Substitution at 69',Milton Gimenez Substitution,5,0.0,0.0,0.0,0.0,0.0,0.0,1,310767,2024-10-25 05:18:32
+12336,720317,15,44046879,76,2,4140,69',0,0,Jorge Figal (Boca Juniors) Substitution at 69',Jorge Figal Substitution,5,0.0,0.0,0.0,0.0,0.0,0.0,1,189952,2024-10-25 05:18:32
+12336,720317,15,44046879,76,2,4140,69',0,0,Jorge Figal (Boca Juniors) Substitution at 69',Jorge Figal Substitution,5,0.0,0.0,0.0,0.0,0.0,0.0,2,310476,2024-10-25 05:18:32
+12336,720317,14,44046878,76,2,4140,69',0,0,Milton Gimenez (Boca Juniors) Substitution at 69',Milton Gimenez Substitution,5,0.0,0.0,0.0,0.0,0.0,0.0,2,297051,2024-10-25 05:18:32
+12336,720317,16,44046933,94,2,4800,80',0,0,Pablo de Blasis (Gimnasia La Plata) Yellow Card at 80',Pablo de Blasis Yellow Card,9,0.0,0.0,0.0,0.0,0.0,0.0,1,119493,2024-10-25 05:18:32
+12336,720317,17,44046985,94,2,5100,85',0,0,Lucas Castro (Gimnasia La Plata) Yellow Card at 85',Lucas Castro Yellow Card,9,0.0,0.0,0.0,0.0,0.0,0.0,1,130004,2024-10-25 05:18:32
+12336,720317,18,44047002,76,2,5280,88',0,0,Nicolás Garayalde (Gimnasia La Plata) Substitution at 88',Nicolás Garayalde Substitution,9,0.0,0.0,0.0,0.0,0.0,0.0,1,301991,2024-10-25 05:18:32
+12336,720317,18,44047002,76,2,5280,88',0,0,Nicolás Garayalde (Gimnasia La Plata) Substitution at 88',Nicolás Garayalde Substitution,9,0.0,0.0,0.0,0.0,0.0,0.0,2,130004,2024-10-25 05:18:32
+12336,720317,19,44047050,94,2,5400,90'+6',0,0,Guillermo Fernández (Boca Juniors) Yellow Card at 96',Guillermo Fernández Yellow Card,5,0.0,0.0,0.0,0.0,0.0,0.0,1,395014,2024-10-25 05:18:32
+12336,720317,19,44047050,94,2,5400,90'+6',0,0,Guillermo Fernández (Boca Juniors) Yellow Card at 96',Guillermo Fernández Yellow Card,5,0.0,0.0,0.0,0.0,0.0,0.0,1,331431,2024-10-25 05:18:32
+12336,720317,19,44047050,94,2,5400,90'+6',0,0,Guillermo Fernández (Boca Juniors) Yellow Card at 96',Guillermo Fernández Yellow Card,5,0.0,0.0,0.0,0.0,0.0,0.0,1,172427,2024-10-25 05:18:32
+12336,720317,19,44047050,94,2,5400,90'+6',0,0,Guillermo Fernández (Boca Juniors) Yellow Card at 96',Guillermo Fernández Yellow Card,5,0.0,0.0,0.0,0.0,0.0,0.0,1,165183,2024-10-25 05:18:32
+12336,720318,1,43795509,70,1,1920,32',1,0,Eric Ramírez (Huracán) Goal at 32',Eric Ramírez Goal,10,0.0,0.0,0.0,0.0,0.0,0.0,1,217573,2024-09-20 05:42:51
+12336,720318,1,43795509,70,1,1920,32',1,0,Eric Ramírez (Huracán) Goal at 32',Eric Ramírez Goal,10,0.0,0.0,0.0,0.0,0.0,0.0,1,217572,2024-09-20 05:42:51
+12336,720318,2,43795561,94,1,2520,42',0,0,David Achucarro (Talleres) Yellow Card at 42',David Achucarro Yellow Card,10161,0.0,0.0,0.0,0.0,0.0,0.0,1,142710,2024-09-20 05:42:51
+12336,720318,4,43795646,76,2,2700,45',0,0,Saúl Nelle (Talleres) Substitution at 45',Saúl Nelle Substitution,10161,0.0,0.0,0.0,0.0,0.0,0.0,1,233724,2024-09-20 05:42:51
+12336,720318,3,43795645,76,2,2700,45',0,0,Franco Pulicastro (Talleres) Substitution at 45',Franco Pulicastro Substitution,10161,0.0,0.0,0.0,0.0,0.0,0.0,1,292931,2024-09-20 05:42:51
+12336,720318,4,43795646,76,2,2700,45',0,0,Saúl Nelle (Talleres) Substitution at 45',Saúl Nelle Substitution,10161,0.0,0.0,0.0,0.0,0.0,0.0,2,378753,2024-09-20 05:42:51
+12336,720318,3,43795645,76,2,2700,45',0,0,Franco Pulicastro (Talleres) Substitution at 45',Franco Pulicastro Substitution,10161,0.0,0.0,0.0,0.0,0.0,0.0,2,241226,2024-09-20 05:42:51
+12336,720318,5,43795684,94,2,3180,53',0,0,Fabio Pereyra (Huracán) Yellow Card at 53',Fabio Pereyra Yellow Card,10,0.0,0.0,0.0,0.0,0.0,0.0,1,278504,2024-09-20 05:42:51
+12336,720318,6,43795716,94,2,3300,55',0,0,Sebastián Gallardo (Talleres) Yellow Card at 55',Sebastián Gallardo Yellow Card,10161,0.0,0.0,0.0,0.0,0.0,0.0,1,378761,2024-09-20 05:42:51
+12336,720318,7,43795717,76,2,3360,56',0,0,Jonathan Benítez (Talleres) Substitution at 56',Jonathan Benítez Substitution,10161,0.0,0.0,0.0,0.0,0.0,0.0,1,134247,2024-09-20 05:42:51
+12336,720318,7,43795717,76,2,3360,56',0,0,Jonathan Benítez (Talleres) Substitution at 56',Jonathan Benítez Substitution,10161,0.0,0.0,0.0,0.0,0.0,0.0,2,378761,2024-09-20 05:42:51
+12336,720318,8,43795769,76,2,3840,64',0,0,Sebastián Benega (Talleres) Substitution at 64',Sebastián Benega Substitution,10161,0.0,0.0,0.0,0.0,0.0,0.0,1,276017,2024-09-20 05:42:51
+12336,720318,8,43795769,76,2,3840,64',0,0,Sebastián Benega (Talleres) Substitution at 64',Sebastián Benega Substitution,10161,0.0,0.0,0.0,0.0,0.0,0.0,2,312588,2024-09-20 05:42:51
+12336,720318,9,43795772,94,2,4020,67',0,0,Federico Fattori (Huracán) Yellow Card at 67',Federico Fattori Yellow Card,10,0.0,0.0,0.0,0.0,0.0,0.0,1,187475,2024-09-20 05:42:51
+12336,720318,10,43795813,76,2,4320,72',0,0,Héctor Fertoli (Huracán) Substitution at 72',Héctor Fertoli Substitution,10,0.0,0.0,0.0,0.0,0.0,0.0,1,203877,2024-09-20 05:42:51
+12336,720318,11,43795814,76,2,4320,72',0,0,Matías Donato (Talleres) Substitution at 72',Matías Donato Substitution,10161,0.0,0.0,0.0,0.0,0.0,0.0,1,283883,2024-09-20 05:42:51
+12336,720318,11,43795814,76,2,4320,72',0,0,Matías Donato (Talleres) Substitution at 72',Matías Donato Substitution,10161,0.0,0.0,0.0,0.0,0.0,0.0,2,188381,2024-09-20 05:42:51
+12336,720318,10,43795813,76,2,4320,72',0,0,Héctor Fertoli (Huracán) Substitution at 72',Héctor Fertoli Substitution,10,0.0,0.0,0.0,0.0,0.0,0.0,2,288740,2024-09-20 05:42:51
+12336,720318,12,43795844,94,2,4620,77',0,0,Rodrigo Echeverría (Huracán) Yellow Card at 77',Rodrigo Echeverría Yellow Card,10,0.0,0.0,0.0,0.0,0.0,0.0,1,199163,2024-09-20 05:42:51
+12336,720318,13,43795851,94,2,4680,78',0,0,Alexis Nicolás Monserrat (Talleres) Yellow Card at 78',Alexis Nicolás Monserrat Yellow ,10161,0.0,0.0,0.0,0.0,0.0,0.0,1,316311,2024-09-20 05:42:51
+12336,720318,14,43795878,76,2,4800,80',0,0,Marcelo Pérez (Huracán) Substitution at 80',Marcelo Pérez Substitution,10,0.0,0.0,0.0,0.0,0.0,0.0,1,200565,2024-09-20 05:42:51
+12336,720318,14,43795878,76,2,4800,80',0,0,Marcelo Pérez (Huracán) Substitution at 80',Marcelo Pérez Substitution,10,0.0,0.0,0.0,0.0,0.0,0.0,2,217573,2024-09-20 05:42:51
+12336,720318,14,43795878,76,2,4800,80',0,0,Marcelo Pérez (Huracán) Substitution at 80',Marcelo Pérez Substitution,10,0.0,0.0,0.0,0.0,0.0,0.0,2,217572,2024-09-20 05:42:51
+12336,720318,15,43795879,76,2,4860,81',0,0,Franco Alfonso (Huracán) Substitution at 81',Franco Alfonso Substitution,10,0.0,0.0,0.0,0.0,0.0,0.0,1,350960,2024-09-20 05:42:51
+12336,720318,15,43795879,76,2,4860,81',0,0,Franco Alfonso (Huracán) Substitution at 81',Franco Alfonso Substitution,10,0.0,0.0,0.0,0.0,0.0,0.0,2,274298,2024-09-20 05:42:51
+12336,720318,17,43796027,76,2,5400,90'+1',0,0,Fernando Tobio (Huracán) Substitution at 91',Fernando Tobio Substitution,10,0.0,0.0,0.0,0.0,0.0,0.0,1,116588,2024-09-20 05:42:51
+12336,720318,18,43796028,76,2,5400,90'+1',0,0,Agustín Toledo (Huracán) Substitution at 91',Agustín Toledo Substitution,10,0.0,0.0,0.0,0.0,0.0,0.0,1,316388,2024-09-20 05:42:51
+12336,720318,19,43796029,94,2,5400,90'+1',0,0,Sebastián Meza (Huracán) Yellow Card at 91',Sebastián Meza Yellow Card,10,0.0,0.0,0.0,0.0,0.0,0.0,1,301961,2024-09-20 05:42:51
+12336,720318,16,43796017,94,2,5400,90'+1',0,0,Walter Mazzantti (Huracán) Yellow Card at 91',Walter Mazzantti Yellow Card,10,0.0,0.0,0.0,0.0,0.0,0.0,1,250387,2024-09-20 05:42:51
+12336,720318,18,43796028,76,2,5400,90'+1',0,0,Agustín Toledo (Huracán) Substitution at 91',Agustín Toledo Substitution,10,0.0,0.0,0.0,0.0,0.0,0.0,2,187475,2024-09-20 05:42:51
+12336,720318,17,43796027,76,2,5400,90'+1',0,0,Fernando Tobio (Huracán) Substitution at 91',Fernando Tobio Substitution,10,0.0,0.0,0.0,0.0,0.0,0.0,2,250387,2024-09-20 05:42:51
+12336,720319,1,43861233,94,1,1440,24',0,0,Joaquín Laso (Independiente) Yellow Card at 24',Joaquín Laso Yellow Card,11,0.0,0.0,0.0,0.0,0.0,0.0,1,215871,2024-09-29 05:45:13
+12336,720319,2,43861243,94,1,1680,28',0,0,Lucas González (Independiente) Yellow Card at 28',Lucas González Yellow Card,11,0.0,0.0,0.0,0.0,0.0,0.0,1,276229,2024-09-29 05:45:13
+12336,720319,2,43861243,94,1,1680,28',0,0,Lucas González (Independiente) Yellow Card at 28',Lucas González Yellow Card,11,0.0,0.0,0.0,0.0,0.0,0.0,1,166927,2024-09-29 05:45:13
+12336,720319,3,43861324,70,2,3300,55',1,0,Claudio Aquino (Vélez Sarsfield) Goal at 55',Claudio Aquino Goal,21,0.0,0.0,0.0,0.0,0.0,0.0,1,145020,2024-09-29 05:45:13
+12336,720319,4,43861370,76,2,3780,63',0,0,Pedro Canelo (Independiente) Substitution at 63',Pedro Canelo Substitution,11,0.0,0.0,0.0,0.0,0.0,0.0,1,167609,2024-09-29 05:45:13
+12336,720319,4,43861370,76,2,3780,63',0,0,Pedro Canelo (Independiente) Substitution at 63',Pedro Canelo Substitution,11,0.0,0.0,0.0,0.0,0.0,0.0,2,208421,2024-09-29 05:45:13
+12336,720319,6,43861399,76,2,4140,69',0,0,Federico Mancuello (Independiente) Substitution at 69',Federico Mancuello Substitution,11,0.0,0.0,0.0,0.0,0.0,0.0,1,130029,2024-09-29 05:45:13
+12336,720319,5,43861398,94,2,4140,69',0,0,Santiago Montiel (Independiente) Yellow Card at 69',Santiago Montiel Yellow Card,11,0.0,0.0,0.0,0.0,0.0,0.0,1,307331,2024-09-29 05:45:13
+12336,720319,6,43861399,76,2,4140,69',0,0,Federico Mancuello (Independiente) Substitution at 69',Federico Mancuello Substitution,11,0.0,0.0,0.0,0.0,0.0,0.0,2,127893,2024-09-29 05:45:13
+12336,720319,8,43861401,76,2,4200,70',0,0,Santiago Hidalgo (Independiente) Substitution at 70',Santiago Hidalgo Substitution,11,0.0,0.0,0.0,0.0,0.0,0.0,1,338873,2024-09-29 05:45:13
+12336,720319,7,43861400,76,2,4200,70',0,0,Adrián Sporle (Independiente) Substitution at 70',Adrián Sporle Substitution,11,0.0,0.0,0.0,0.0,0.0,0.0,1,205532,2024-09-29 05:45:13
+12336,720319,8,43861401,76,2,4200,70',0,0,Santiago Hidalgo (Independiente) Substitution at 70',Santiago Hidalgo Substitution,11,0.0,0.0,0.0,0.0,0.0,0.0,2,125307,2024-09-29 05:45:13
+12336,720319,7,43861400,76,2,4200,70',0,0,Adrián Sporle (Independiente) Substitution at 70',Adrián Sporle Substitution,11,0.0,0.0,0.0,0.0,0.0,0.0,2,276229,2024-09-29 05:45:13
+12336,720319,7,43861400,76,2,4200,70',0,0,Adrián Sporle (Independiente) Substitution at 70',Adrián Sporle Substitution,11,0.0,0.0,0.0,0.0,0.0,0.0,2,166927,2024-09-29 05:45:13
+12336,720319,9,43861402,76,2,4260,71',0,0,Damián Fernández (Vélez Sarsfield) Substitution at 71',Damián Fernández Substitution,21,0.0,0.0,0.0,0.0,0.0,0.0,1,383014,2024-09-29 05:45:13
+12336,720319,9,43861402,76,2,4260,71',0,0,Damián Fernández (Vélez Sarsfield) Substitution at 71',Damián Fernández Substitution,21,0.0,0.0,0.0,0.0,0.0,0.0,1,350109,2024-09-29 05:45:13
+12336,720319,9,43861402,76,2,4260,71',0,0,Damián Fernández (Vélez Sarsfield) Substitution at 71',Damián Fernández Substitution,21,0.0,0.0,0.0,0.0,0.0,0.0,1,120682,2024-09-29 05:45:13
+12336,720319,10,43861403,76,2,4260,71',0,0,Aarón Quirós (Vélez Sarsfield) Substitution at 71',Aarón Quirós Substitution,21,0.0,0.0,0.0,0.0,0.0,0.0,1,317427,2024-09-29 05:45:13
+12336,720319,9,43861402,76,2,4260,71',0,0,Damián Fernández (Vélez Sarsfield) Substitution at 71',Damián Fernández Substitution,21,0.0,0.0,0.0,0.0,0.0,0.0,2,195034,2024-09-29 05:45:13
+12336,720319,10,43861403,76,2,4260,71',0,0,Aarón Quirós (Vélez Sarsfield) Substitution at 71',Aarón Quirós Substitution,21,0.0,0.0,0.0,0.0,0.0,0.0,2,292033,2024-09-29 05:45:13
+12336,720319,10,43861403,76,2,4260,71',0,0,Aarón Quirós (Vélez Sarsfield) Substitution at 71',Aarón Quirós Substitution,21,0.0,0.0,0.0,0.0,0.0,0.0,2,196592,2024-09-29 05:45:13
+12336,720319,12,43861467,76,2,4860,81',0,0,Jalil Elías (Vélez Sarsfield) Substitution at 81',Jalil Elías Substitution,21,0.0,0.0,0.0,0.0,0.0,0.0,1,220094,2024-09-29 05:45:13
+12336,720319,11,43861466,76,2,4860,81',0,0,Matías Pellegrini (Vélez Sarsfield) Substitution at 81',Matías Pellegrini Substitution,21,0.0,0.0,0.0,0.0,0.0,0.0,1,276287,2024-09-29 05:45:13
+12336,720319,12,43861467,76,2,4860,81',0,0,Jalil Elías (Vélez Sarsfield) Substitution at 81',Jalil Elías Substitution,21,0.0,0.0,0.0,0.0,0.0,0.0,2,145020,2024-09-29 05:45:13
+12336,720319,11,43861466,76,2,4860,81',0,0,Matías Pellegrini (Vélez Sarsfield) Substitution at 81',Matías Pellegrini Substitution,21,0.0,0.0,0.0,0.0,0.0,0.0,2,166477,2024-09-29 05:45:13
+12336,720319,13,43861468,76,2,5040,84',0,0,Santiago Toloza (Independiente) Substitution at 84',Santiago Toloza Substitution,11,0.0,0.0,0.0,0.0,0.0,0.0,1,301982,2024-09-29 05:45:13
+12336,720319,13,43861468,76,2,5040,84',0,0,Santiago Toloza (Independiente) Substitution at 84',Santiago Toloza Substitution,11,0.0,0.0,0.0,0.0,0.0,0.0,2,361260,2024-09-29 05:45:13
+12336,720319,13,43861468,76,2,5040,84',0,0,Santiago Toloza (Independiente) Substitution at 84',Santiago Toloza Substitution,11,0.0,0.0,0.0,0.0,0.0,0.0,2,353941,2024-09-29 05:45:13
+12336,720319,14,43861478,76,2,5220,87',0,0,Francisco Montoro (Vélez Sarsfield) Substitution at 87',Francisco Montoro Substitution,21,0.0,0.0,0.0,0.0,0.0,0.0,1,392159,2024-09-29 05:45:13
+12336,720319,14,43861478,76,2,5220,87',0,0,Francisco Montoro (Vélez Sarsfield) Substitution at 87',Francisco Montoro Substitution,21,0.0,0.0,0.0,0.0,0.0,0.0,2,171861,2024-09-29 05:45:13
+12336,720319,15,43861479,94,2,5280,88',0,0,Diego Segovia (Independiente) Yellow Card at 88',Diego Segovia Yellow Card,11,0.0,0.0,0.0,0.0,0.0,0.0,1,116182,2024-09-30 05:42:26
+12336,720319,16,43861481,94,2,5400,90'+1',0,0,Felipe Loyola (Independiente) Yellow Card at 91',Felipe Loyola Yellow Card,11,0.0,0.0,0.0,0.0,0.0,0.0,1,320555,2024-09-29 05:45:13
+12336,720320,1,43789419,70,1,360,6',1,0,Lucas Baldunciel (Temperley) Goal at 6',Lucas Baldunciel Goal,10162,0.0,0.0,0.0,0.0,0.0,0.0,1,185736,2024-09-20 05:42:51
+12336,720320,2,43789656,94,1,1500,25',0,0,Marcos Arturia (Temperley) Yellow Card at 25',Marcos Arturia Yellow Card,10162,0.0,0.0,0.0,0.0,0.0,0.0,1,283612,2024-09-20 05:42:51
+12336,720320,3,43789827,94,1,2040,34',0,0,Luis López (Temperley) Yellow Card at 34',Luis López Yellow Card,10162,0.0,0.0,0.0,0.0,0.0,0.0,1,353989,2024-09-20 05:42:51
+12336,720320,3,43789827,94,1,2040,34',0,0,Luis López (Temperley) Yellow Card at 34',Luis López Yellow Card,10162,0.0,0.0,0.0,0.0,0.0,0.0,1,304321,2024-09-20 05:42:51
+12336,720320,3,43789827,94,1,2040,34',0,0,Luis López (Temperley) Yellow Card at 34',Luis López Yellow Card,10162,0.0,0.0,0.0,0.0,0.0,0.0,1,301723,2024-09-20 05:42:51
+12336,720320,3,43789827,94,1,2040,34',0,0,Luis López (Temperley) Yellow Card at 34',Luis López Yellow Card,10162,0.0,0.0,0.0,0.0,0.0,0.0,1,205521,2024-09-20 05:42:51
+12336,720320,3,43789827,94,1,2040,34',0,0,Luis López (Temperley) Yellow Card at 34',Luis López Yellow Card,10162,0.0,0.0,0.0,0.0,0.0,0.0,1,193567,2024-09-20 05:42:51
+12336,720320,3,43789827,94,1,2040,34',0,0,Luis López (Temperley) Yellow Card at 34',Luis López Yellow Card,10162,0.0,0.0,0.0,0.0,0.0,0.0,1,176159,2024-09-20 05:42:51
+12336,720320,4,43790718,76,2,2700,45',0,0,Luis Miguel Angulo (Central Córdoba (Santiago del Estero)) Substitution at 45',Luis Miguel Angulo Substitution,11989,0.0,0.0,0.0,0.0,0.0,0.0,1,317452,2024-09-20 05:42:51
+12336,720320,6,43790720,76,2,2700,45',0,0,Alexis Segovia (Central Córdoba (Santiago del Estero)) Substitution at 45',Alexis Segovia Substitution,11989,0.0,0.0,0.0,0.0,0.0,0.0,1,338824,2024-09-20 05:42:51
+12336,720320,5,43790719,76,2,2700,45',0,0,Favio Cabral (Central Córdoba (Santiago del Estero)) Substitution at 45',Favio Cabral Substitution,11989,0.0,0.0,0.0,0.0,0.0,0.0,1,301983,2024-09-20 05:42:51
+12336,720320,7,43790721,76,2,2700,45',0,0,Lucas Richarte (Temperley) Substitution at 45',Lucas Richarte Substitution,10162,0.0,0.0,0.0,0.0,0.0,0.0,1,384053,2024-09-20 05:42:51
+12336,720320,7,43790721,76,2,2700,45',0,0,Lucas Richarte (Temperley) Substitution at 45',Lucas Richarte Substitution,10162,0.0,0.0,0.0,0.0,0.0,0.0,2,154399,2024-09-20 05:42:51
+12336,720320,5,43790719,76,2,2700,45',0,0,Favio Cabral (Central Córdoba (Santiago del Estero)) Substitution at 45',Favio Cabral Substitution,11989,0.0,0.0,0.0,0.0,0.0,0.0,2,384253,2024-09-20 05:42:51
+12336,720320,5,43790719,76,2,2700,45',0,0,Favio Cabral (Central Córdoba (Santiago del Estero)) Substitution at 45',Favio Cabral Substitution,11989,0.0,0.0,0.0,0.0,0.0,0.0,2,272678,2024-09-20 05:42:51
+12336,720320,6,43790720,76,2,2700,45',0,0,Alexis Segovia (Central Córdoba (Santiago del Estero)) Substitution at 45',Alexis Segovia Substitution,11989,0.0,0.0,0.0,0.0,0.0,0.0,2,338874,2024-09-20 05:42:51
+12336,720320,4,43790718,76,2,2700,45',0,0,Luis Miguel Angulo (Central Córdoba (Santiago del Estero)) Substitution at 45',Luis Miguel Angulo Substitution,11989,0.0,0.0,0.0,0.0,0.0,0.0,2,219074,2024-09-20 05:42:51
+12336,720320,8,43790876,70,2,3060,51',1,0,José Florentín (Central Córdoba (Santiago del Estero)) Goal at 51',José Florentín Goal,11989,0.0,0.0,0.0,0.0,0.0,0.0,1,217153,2024-09-20 05:42:51
+12336,720320,9,43791037,70,2,3480,58',1,0,Favio Cabral (Central Córdoba (Santiago del Estero)) Goal at 58',Favio Cabral Goal,11989,0.0,0.0,0.0,0.0,0.0,0.0,1,301983,2024-09-20 05:42:51
+12336,720320,11,43791108,76,2,3660,61',0,0,Julián Mavilla (Temperley) Substitution at 61',Julián Mavilla Substitution,10162,0.0,0.0,0.0,0.0,0.0,0.0,1,379769,2024-09-20 05:42:51
+12336,720320,10,43791107,76,2,3660,61',0,0,Franco Ayunta (Temperley) Substitution at 61',Franco Ayunta Substitution,10162,0.0,0.0,0.0,0.0,0.0,0.0,1,292183,2024-09-20 05:42:51
+12336,720320,12,43791109,94,2,3660,61',0,0,Hernan Da Campo (Temperley) Yellow Card at 61',Hernan Da Campo Yellow Card,10162,0.0,0.0,0.0,0.0,0.0,0.0,1,214027,2024-09-20 05:42:51
+12336,720320,10,43791107,76,2,3660,61',0,0,Franco Ayunta (Temperley) Substitution at 61',Franco Ayunta Substitution,10162,0.0,0.0,0.0,0.0,0.0,0.0,2,283612,2024-09-20 05:42:51
+12336,720320,11,43791108,76,2,3660,61',0,0,Julián Mavilla (Temperley) Substitution at 61',Julián Mavilla Substitution,10162,0.0,0.0,0.0,0.0,0.0,0.0,2,292132,2024-09-20 05:42:51
+12336,720320,13,43791273,76,2,4260,71',0,0,Manuel Palavecino (Central Córdoba (Santiago del Estero)) Substitution at 71',Manuel Palavecino Substitution,11989,0.0,0.0,0.0,0.0,0.0,0.0,1,339010,2024-09-20 05:42:51
+12336,720320,13,43791273,76,2,4260,71',0,0,Manuel Palavecino (Central Córdoba (Santiago del Estero)) Substitution at 71',Manuel Palavecino Substitution,11989,0.0,0.0,0.0,0.0,0.0,0.0,2,339197,2024-09-20 05:42:51
+12336,720320,14,43791432,76,2,4680,78',0,0,Francisco Ilarregui (Temperley) Substitution at 78',Francisco Ilarregui Substitution,10162,0.0,0.0,0.0,0.0,0.0,0.0,1,211656,2024-09-20 05:42:51
+12336,720320,14,43791432,76,2,4680,78',0,0,Francisco Ilarregui (Temperley) Substitution at 78',Francisco Ilarregui Substitution,10162,0.0,0.0,0.0,0.0,0.0,0.0,2,335514,2024-09-20 05:42:51
+12336,720320,15,43791476,76,2,4860,81',0,0,Lautaruo Rivero (Central Córdoba (Santiago del Estero)) Substitution at 81',Lautaruo Rivero Substitution,11989,0.0,0.0,0.0,0.0,0.0,0.0,1,382912,2024-09-20 05:42:51
+12336,720320,15,43791476,76,2,4860,81',0,0,Lautaruo Rivero (Central Córdoba (Santiago del Estero)) Substitution at 81',Lautaruo Rivero Substitution,11989,0.0,0.0,0.0,0.0,0.0,0.0,2,236681,2024-09-20 05:42:51
+12336,720320,16,43828174,94,2,4980,83',0,0,Juan Pablo Segovia (Temperley) Yellow Card at 83',Juan Pablo Segovia Yellow Card,10162,0.0,0.0,0.0,0.0,0.0,0.0,1,131868,2024-09-23 05:36:36
+12336,720320,17,43791633,76,2,5220,87',0,0,Emiliano Saliadarre (Temperley) Substitution at 87',Emiliano Saliadarre Substitution,10162,0.0,0.0,0.0,0.0,0.0,0.0,1,350354,2024-09-23 05:36:36
+12336,720320,17,43791633,76,2,5220,87',0,0,Emiliano Saliadarre (Temperley) Substitution at 87',Emiliano Saliadarre Substitution,10162,0.0,0.0,0.0,0.0,0.0,0.0,2,185736,2024-09-23 05:36:36
+12336,720320,18,43791809,94,2,5400,90'+5',0,0,Agustín Sosa (Temperley) Yellow Card at 95',Agustín Sosa Yellow Card,10162,0.0,0.0,0.0,0.0,0.0,0.0,1,269820,2024-09-23 05:36:36
+12336,720320,19,43828135,94,2,5400,90'+5',0,0,Juan Rago (Temperley) Yellow Card at 95',Juan Rago Yellow Card,10162,0.0,0.0,0.0,0.0,0.0,0.0,1,292024,2024-09-23 05:36:36

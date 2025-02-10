@@ -1,0 +1,42 @@
+seasonType,eventId,playOrder,playId,typeId,text,shortText,period,clockValue,clockDisplayValue,teamId,scoringPlay,shootout,wallclock,goalPositionX,goalPositionY,fieldpositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,athleteId,participant,updateDateTime
+12602,723147,1,44418194,94,Leon Balogun (Rangers) Yellow Card at 24',Leon Balogun Yellow Card,1,1440,24',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,121550,Leon Balogun,2024-12-16 05:56:47
+12602,723147,2,44418418,70,Nedim Bajrami (Rangers) Goal at 41',Nedim Bajrami Goal,1,2460,41',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,252559,Nedim Bajrami,2024-12-16 05:56:47
+12602,723147,3,44418487,94,Jefte Vital Da Silva Dias (Rangers) Yellow Card at 44',Jefte Vital Da Silva Dias Yellow,1,2640,44',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,318136,Jefte Vital Da Silva Dias,2024-12-16 05:56:47
+12602,723147,4,44418777,76,Liam Scales (Celtic) Substitution at 45',Liam Scales Substitution,2,2700,45',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,288959,Liam Scales,2024-12-16 05:56:47
+12602,723147,4,44418777,76,Liam Scales (Celtic) Substitution at 45',Liam Scales Substitution,2,2700,45',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,228619,Auston Trusty,2024-12-16 05:56:47
+12602,723147,5,44418949,70,Greg Taylor (Celtic) Goal at 56',Greg Taylor Goal,2,3360,56',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,119088,Greg Taylor,2024-12-16 05:56:47
+12602,723147,6,44419017,70,Daizen Maeda (Celtic) Goal at 60',Daizen Maeda Goal,2,3600,60',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,286347,Daizen Maeda,2024-12-16 05:56:47
+12602,723147,7,44419055,76,Ridvan Yilmaz (Rangers) Substitution at 61',Ridvan Yilmaz Substitution,2,3660,61',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,283691,Ridvan Yilmaz,2024-12-16 05:56:47
+12602,723147,7,44419055,76,Ridvan Yilmaz (Rangers) Substitution at 61',Ridvan Yilmaz Substitution,2,3660,61',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,318136,Jefte Vital Da Silva Dias,2024-12-16 05:56:47
+12602,723147,8,44419094,94,Kyogo Furuhashi (Celtic) Yellow Card at 67',Kyogo Furuhashi Yellow Card,2,4020,67',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,276904,Kyogo Furuhashi,2024-12-16 05:56:47
+12602,723147,9,44419112,76,Dujon Sterling (Rangers) Substitution at 67',Dujon Sterling Substitution,2,4020,67',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,231170,Dujon Sterling,2024-12-16 05:56:47
+12602,723147,9,44419112,76,Dujon Sterling (Rangers) Substitution at 67',Dujon Sterling Substitution,2,4020,67',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,121550,Leon Balogun,2024-12-16 05:56:47
+12602,723147,10,44419150,76,Anthony Ralston (Celtic) Substitution at 70',Anthony Ralston Substitution,2,4200,70',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,224305,Anthony Ralston,2024-12-16 05:56:47
+12602,723147,10,44419150,76,Anthony Ralston (Celtic) Substitution at 70',Anthony Ralston Substitution,2,4200,70',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,293691,Alistair Johnston,2024-12-16 05:56:47
+12602,723147,11,44419151,76,Arne Engels (Celtic) Substitution at 71',Arne Engels Substitution,2,4260,71',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,314177,Arne Engels,2024-12-16 05:56:47
+12602,723147,11,44419151,76,Arne Engels (Celtic) Substitution at 71',Arne Engels Substitution,2,4260,71',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,310802,Paulo Bernardo,2024-12-16 05:56:47
+12602,723147,12,44419213,70,Mohammed Diomande (Rangers) Goal at 75',Mohammed Diomande Goal,2,4500,75',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,303049,Mohammed Diomande,2024-12-16 05:56:47
+12602,723147,13,44419281,76,Adam Idah (Celtic) Substitution at 76',Adam Idah Substitution,2,4560,76',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,288958,Adam Idah,2024-12-16 05:56:47
+12602,723147,13,44419281,76,Adam Idah (Celtic) Substitution at 76',Adam Idah Substitution,2,4560,76',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,276904,Kyogo Furuhashi,2024-12-16 05:56:47
+12602,723147,14,44419419,76,Danilo  (Rangers) Substitution at 86',Danilo  Substitution,2,5160,86',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,272224,Danilo,2024-12-16 05:56:47
+12602,723147,14,44419419,76,Danilo  (Rangers) Substitution at 86',Danilo  Substitution,2,5160,86',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,252559,Nedim Bajrami,2024-12-16 05:56:47
+12602,723147,15,44419435,70,Nicolas Gerrit Kühn (Celtic) Goal at 87',Nicolas Gerrit Kühn Goal,2,5220,87',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,260262,Nicolas Gerrit Kühn,2024-12-16 05:56:47
+12602,723147,16,44419459,70,Danilo  (Rangers) Goal at 88',Danilo  Goal,2,5280,88',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,272224,Danilo,2024-12-16 05:56:47
+12602,723147,17,44419510,94,Nicolas Raskin (Rangers) Yellow Card at 91',Nicolas Raskin Yellow Card,2,5400,90'+1',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,260027,Nicolas Raskin,2024-12-16 05:56:47
+12602,723147,18,44419522,94,Cameron Carter-Vickers (Celtic) Yellow Card at 92',Cameron Carter-Vickers Yellow Ca,2,5400,90'+2',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,219273,Cameron Carter-Vickers,2024-12-16 05:56:47
+12602,723147,19,44419552,94,James Tavernier (Rangers) Yellow Card at 94',James Tavernier Yellow Card,2,5400,90'+4',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,141144,James Tavernier,2024-12-16 05:56:47
+12602,723147,20,44419624,76,Álex Valle (Celtic) Substitution at 90',Álex Valle Substitution,3,5400,90',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,192146,Álex Valle,2024-12-16 05:56:47
+12602,723147,20,44419624,76,Álex Valle (Celtic) Substitution at 90',Álex Valle Substitution,3,5400,90',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,119088,Greg Taylor,2024-12-16 05:56:47
+12602,723147,21,44419703,94,Liam Scales (Celtic) Yellow Card at 93',Liam Scales Yellow Card,3,5580,93',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,288959,Liam Scales,2024-12-16 05:56:47
+12602,723147,22,44419726,94,Hamza Igmane (Rangers) Yellow Card at 95',Hamza Igmane Yellow Card,3,5700,95',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,358999,Hamza Igmane,2024-12-16 05:56:47
+12602,723147,23,44419824,76,Cyriel Dessers (Rangers) Substitution at 101',Cyriel Dessers Substitution,3,6060,101',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,212250,Cyriel Dessers,2024-12-16 05:56:47
+12602,723147,23,44419824,76,Cyriel Dessers (Rangers) Substitution at 101',Cyriel Dessers Substitution,3,6060,101',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,358999,Hamza Igmane,2024-12-16 05:56:47
+12602,723147,24,44419887,94,Cyriel Dessers (Rangers) Yellow Card at 102',Cyriel Dessers Yellow Card,3,6120,102',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,212250,Cyriel Dessers,2024-12-16 05:56:47
+12602,723147,25,44419966,76,James Forrest (Celtic) Substitution at 105',James Forrest Substitution,4,6300,105',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,141303,James Forrest,2024-12-16 05:56:47
+12602,723147,26,44419967,76,Connor Barron (Rangers) Substitution at 105',Connor Barron Substitution,4,6300,105',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,291455,Connor Barron,2024-12-16 05:56:47
+12602,723147,27,44419968,76,Kieran Dowell (Rangers) Substitution at 105',Kieran Dowell Substitution,4,6300,105',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,194114,Kieran Dowell,2024-12-16 05:56:47
+12602,723147,25,44419966,76,James Forrest (Celtic) Substitution at 105',James Forrest Substitution,4,6300,105',256,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,260262,Nicolas Gerrit Kühn,2024-12-16 05:56:47
+12602,723147,26,44419967,76,Connor Barron (Rangers) Substitution at 105',Connor Barron Substitution,4,6300,105',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,303049,Mohammed Diomande,2024-12-16 05:56:47
+12602,723147,27,44419968,76,Kieran Dowell (Rangers) Substitution at 105',Kieran Dowell Substitution,4,6300,105',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,217476,Václav Cerný,2024-12-16 05:56:47
+12602,723147,28,44420003,94,Dujon Sterling (Rangers) Yellow Card at 107',Dujon Sterling Yellow Card,4,6420,107',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,231170,Dujon Sterling,2024-12-16 05:56:47
+12602,723147,29,44420036,94,Ianis Hagi (Rangers) Yellow Card at 111',Ianis Hagi Yellow Card,4,6660,111',257,0,0,1980-01-01,0.0,0.0,0.0,0.0,0.0,0.0,240062,Ianis Hagi,2024-12-16 05:56:47
